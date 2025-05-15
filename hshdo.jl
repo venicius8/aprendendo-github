@@ -2,7 +2,7 @@
 # Initialization script
 
 function main()
-    println("Hello, Julia! Project initialized.")
+    println("Olá, Julia! Projeto inicializado.")
 end
 
 main()
